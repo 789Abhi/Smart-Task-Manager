@@ -2,6 +2,8 @@
 
 A small, production-minded task management feature built with **React + Vite + Tailwind CSS v3**.
 
+🌐 **Live Demo:** [https://smart-task-manager-tech.vercel.app/](https://smart-task-manager-tech.vercel.app/)
+
 ---
 
 ## Setup & Run
